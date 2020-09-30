@@ -1,0 +1,187 @@
+---
+title: "Fake news à l'épreuve des faits"
+subtitle: "4 - Analyser les données"
+author: "Sylvain Lapoix & Sarah Mersch"
+date: "DW Akademie - 03/10/2020"
+output:
+  SlidesDatactivist::moon_reader:
+    css: [default, datactivist, datactivist-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+params:
+  event: DW-A - DDJ 4 - 3/10/2020
+
+---
+
+layout: true
+  
+
+`r paste0("<div class='my-footer'><span>", params$event, "</span> <center><div class=logo><img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'></center></span></div>")` 
+
+
+---
+
+background-image: url("https://media.giphy.com/media/S50wuttOJPoRi/giphy.gif")
+class: center, top, inverse
+
+# Work in progress
+
+
+---
+
+background-image: url("https://media.giphy.com/media/AXorq76Tg3Vte/giphy.gif")
+class: center, top, inverse
+
+# Analyser les données
+
+
+---
+
+background-image: url("https://media.giphy.com/media/3o7aTFnG95Q8VIsRqw/giphy.gif")
+class: center, top, inverse
+
+
+## 1. Traduire une question journalistique en traitement de données
+
+
+---
+
+### Savoir lire un tableau
+
+
+
+---
+
+class: center, top, inverse
+
+
+
+
+
+---
+
+### Identifier les dimensions
+
+---
+
+### Déterminer les limites des données
+
+---
+
+### Traduire ses questions journalistiques en opérations
+
+---
+
+background-image: url("https://media.giphy.com/media/xT0xekLZmeC54FCTJu/giphy.gif")
+class: center, top, inverse
+
+
+## 2. Les outils de traitement (et à quoi ils servent)
+
+---
+
+### Manipulations
+
+---
+
+#### Les filtres (pour se concentrer)
+
+---
+
+#### Le tri (pour ordonner)
+
+---
+
+### Opérations
+
+---
+
+#### Les comptes (pour énumérer) - 1
+
+---
+
+#### Les comptes (pour énumérer) - 2
+
+---
+
+#### Les opérations arithmétiques (pour calculer)
+
+
+---
+
+#### Les moyennes (pour globaliser)
+
+---
+
+#### La médiane et les quantiles (pour situer)
+
+---
+
+#### Les conditions (pour tester)
+
+---
+
+### Mise en pratique
+
+---
+
+background-image: url("https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif")
+class: center, top, inverse
+
+
+## 3. Méthodes d'analyse
+
+---
+
+### Combiner des fonctions
+
+---
+
+### Incrémenter des fonctions
+
+---
+
+### Calculer un ratio / un pourcentage
+
+
+---
+
+### Calculer une évolution
+
+---
+
+### Créer une nouvelle variable
+
+---
+
+### Créer une synthèse par colonne
+
+---
+
+background-image: url("https://media.giphy.com/media/4tnvrl1BQkQa4/giphy.gif")
+class: center, top, inverse
+
+
+## 4. Le tableau croisé dynamique
+
+
+---
+
+background-image: url("https://media.giphy.com/media/3oriNZoNvn73MZaFYk/giphy.gif")
+class: center, top, inverse
+
+## 5. Entraînement
+
+
+---
+
+class: inverse, center, middle
+
+# Merci !
+
+Contact : [sylvain@datactivist.coop](mailto:sylvain@datactivist.coop)
+
+

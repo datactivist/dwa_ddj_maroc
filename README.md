@@ -25,8 +25,8 @@
 
 ## Support
 
-* Session 3 : [3 - Nettoyer les données](https://datactivist.coop/dwa_ddj_maroc/3-nettoyage/#1)
-* Session 4 : *à venir*
+* Session 3 : [Nettoyer les données](https://datactivist.coop/dwa_ddj_maroc/3-nettoyage/#1)
+* Session 4 : [Analyser les données](https://datactivist.coop/dwa_ddj_maroc/4-analyse/#1)
 * Session 5 : *à venir*
 
 
@@ -37,7 +37,8 @@
 * [Palmarès des équipes - Coupe d'Afrique des Nations](https://fr.wikipedia.org/wiki/Coupe_d%27Afrique_des_nations_de_football#%C3%89quipes), Wikipedia.
 
 ### Session 4
-*à venir*
+* [WHO Coronavirus Disease (COVID-19) Dashboard](https://covid19.who.int/table), Organisation Mondiale de la Santé ;
+
 
 
 ### Session 5
